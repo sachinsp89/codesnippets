@@ -6,4 +6,7 @@ For Instance, you would need the current user details like login id or name or d
  
  For simplicity I have used cookies, please feel free to use any other mechanism or suggest any other improvements.
  
+ 
+ Many other utilites have been added in the same path.
+ 
  Thanks.
